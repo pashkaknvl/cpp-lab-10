@@ -1,0 +1,3 @@
+C:/Users/Павел/CLionProjects/cpp-lab-10/cmake-build-debug/CMakeFiles/cpp_lab_10.dir
+C:/Users/Павел/CLionProjects/cpp-lab-10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Павел/CLionProjects/cpp-lab-10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
